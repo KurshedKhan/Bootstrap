@@ -1,22 +1,22 @@
 # Bootstrap
-CSS based frond-end framework.
-it build twitter company.
-Faster and easier web development
-Easily create Responsive web layouts.
+CSS based frond-end framework.<br>
+it build twitter company.<br>
+Faster and easier web development.<br>
+Easily create Responsive web layouts.<br>
 ###### =================================
-Break-Point ==> 1. Large--laptop, computer screen<br>
+Break-Point ==><br><br>1. Large--laptop, computer screen<br>
                 2. Medium--medium size screen<br>
                 3. Small--lablet etc.<br>
                 4. Extra-Small--Mobile Phone etc.<br>
 ###### =================================
-Advantages of Using Bootstrap :==> 1.Save lots of time<br>
+Advantages of Using Bootstrap :==><br><br> 1.Save lots of time<br>
                                    2.Responsive Features<br>
                                    3.Consistent Design<br>
                                    4.Easy to use<br>
                                    5.Compatible With Browser<br>
                                    6.Open Source<br>
 ###### =================================
-Bootstrap CSS Features & Component :
+Bootstrap CSS Features & Component :<br><br>
     1.Multi-Column layouts<br>
     2.Form layouts<br>
     3.Button Groups<br>
@@ -41,7 +41,7 @@ Bootstrap CSS Features & Component :
     22.Wells<br>
     23.Glyphicons etc.<br>
 ###### =================================
-Bootstrap JS Components :
+Bootstrap JS Components :<br><br>
     1.Modal Box<br>
     2.Dropdwon<br>
     3.Scrollspy<br>
@@ -53,7 +53,7 @@ Bootstrap JS Components :
     9.Carousel<br>
     10.Affix<br>
 ###### =================================
-Other Popular CSS FrameWorks :
+Other Popular CSS FrameWorks :<br><br>
     1.Materialize CSS<br>
     2.Foundation<br>
     3.Bulma<br>
@@ -65,7 +65,7 @@ Other Popular CSS FrameWorks :
     9.Bootflat<br>
     10.Groundwork<br>
 ###### =================================
-Bootstrap Official Website
+Bootstrap Official Website<br><br>
     ====> [get](https://getbootstrap.com/)https://getbootstrap.com/
 
 ### Kurshed Khan
