@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Container & Row Class in Bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+<style>
+    .container{
+        border: 4px solid black;
+        
+    }
+
+/* .container-fluid{
+        border: 1px solid black;
+    } */
+.row{
+    border: 1px solid red;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    background-color: dodgerblue;
+    margin: 10px;
+    color: whitesmoke;
+    font-size: xx-large;
+}
+</style>
+</head>
+<body>
+    <!--
+        Main three class in Bootstrap
+            
+                1. Container Class
+                2. Row
+                3. col
+        
+        Container Class with different Break Points
+
+            Extra large  >= 1200px   1140px{Container Width}
+            Large        >= 992px    960px{Container Width}
+            Medium       >= 768px    720px{Container Width}
+            Small        >= 576px    540px{Container Width}
+            Extra large  <  576px    Auto{Container Width}
+
+        1. Container Class ==>
+                            container class is applied only once.
+                            This applied only main Container
+
+        2. Row Class ==> 
+                        Row class is applied in the container class.
+                        Row class have a flex property.
+
+        Notes: Container-fluid Class use for 100% width.
+    -->
+
+    <div class="container">
+        <div class="row">Row 1</div>
+        <div class="row">Row 2</div>
+        <div class="row">Row 3</div>
+    </div>
+    <!-- <div class="container-fluid">
+        <h1>My Header full width</h1>
+    </div> -->
+</body>
+</html>
